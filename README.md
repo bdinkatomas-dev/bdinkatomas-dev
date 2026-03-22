@@ -1,16 +1,34 @@
-## Hi there 👋
+# bdinkatomas-dev
 
-<!--
-**bdinkatomas-dev/bdinkatomas-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Student a developer zaměřený na tvorbu moderních webových aplikací, UI design a experimentální projekty.  
+Tento repozitář slouží jako osobní portfolio a ukázka mých projektů.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Projekty
+
+| Projekt | Popis |
+|---------|-------|
+| [Github](https://github.com/bdinkatomas-dev/bdinkatomas-dev) | Osobní prezentace a UI experimenty |
+| Webové aplikace | Frontend logika a interaktivní prvky |
+| Později | Nové projekty budou doplněny |
+
+---
+
+## 📝 Devlogy
+
+| Den | Aktivita |
+|-----|----------|
+| 01 / začátek | Jak udělat web #1 |
+| 02 / Později
+
+---
+
+## 💻 O mně
+
+Chodím na gymnázium, snažím se vytvářet a vyvíjet webové aplikace, programy a hry, a také open source projekty dostupné na Linuxu.  
+Mým cílem je vytvářet čistý, rychlý a technicky kvalitní kód s moderním designem.
+
+---
+
+## 📂 Struktura repozitáře
