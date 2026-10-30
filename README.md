@@ -3,4 +3,6 @@
 - 💬 Ask me about coding or computers
 - 📫 How to reach me: (mailto:zyqraile@proton.me)
 - 😄 Pronouns: He/Him
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Fun+fact:Touch+more+grass)](https://git.io/typing-svg)
